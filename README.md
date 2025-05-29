@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AutoEnocomix**
-
-- 🌱 I’m currently learning **Advanced Java**
-
-- 💬 Ask me about **Java, C, C++, Python, HTML, CSS, PHP**
+- 💬 Ask me about **Java, Spring Boot, Python, PHP, React, MySQL, MongoDB, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **palakrajput8170@gmail.com**
 
